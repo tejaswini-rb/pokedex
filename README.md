@@ -13,23 +13,7 @@ In this project, you'll be creating a frontend that graphically displays Pokémo
 - Navigate to the created `pokedex` directory
 - Run `npm start` to see the local server for the web app!
 
-- Helpful Advice: Creating a `components` folder in the `src` directory can help with organization and clutter!
-
-# Submission Instructions
-- Create a 0.5-3 minute video walkthrough of your project (include the video link in the README of your project repo)
-- Push all your changes to the remote repository.
-- **Due Date:** 02-20-2024
-
-## Requirements
-- Must use HTML, CSS (or Tailwind CSS), JS, and React
-- Must implement the `useState()` and `useEffect()` hooks
-- Must contain the specified frontend elements
-- Must use the free PokeAPI
-- Should have at least 20 commits (though not required)
-
 ## Project Specifications
-**What the end result should look like:**
-
 <img width="500" alt="Screenshot 2023-09-26 at 5 41 02 PM" src="https://github.com/BoG-Dev-Bootcamp-S24/bootcamp-s24/blob/main/exer5/assets/info_screen.jpeg">
 <img width="500" alt="Screenshot 2023-09-26 at 5 41 09 PM" src="https://github.com/BoG-Dev-Bootcamp-S24/bootcamp-s24/blob/main/exer5/assets/moves_screen.jpeg">
 
