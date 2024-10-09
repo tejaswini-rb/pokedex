@@ -1,5 +1,5 @@
 ## Link to my Video Demo!
-[Video Demo](https://drive.google.com/drive/folders/1dz2WQzPjR15h-MmWOWBDn00Rh4pzIP8w?usp=drive_link)
+[Video Demo](https://drive.google.com/file/d/1M_DcHVInyk6jByXAQCcfOd_8gPLwZWWp/view?usp=sharing)
 
 # Exercise 5 — Mini Pokédex
 ## Description
